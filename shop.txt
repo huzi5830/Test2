@@ -6,4 +6,3 @@ Cereal
 Bread
 Eggs
 Milk
-
